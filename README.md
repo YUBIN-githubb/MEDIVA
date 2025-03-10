@@ -5,6 +5,12 @@
 
 MEDIVA는 의료기기 임상시험 계획서 가이드라인을 제공하는 AI 챗봇입니다. (리드미 파일은 후에 더 수정할 예정)
 
+
+## 발표영상
+
+[![영상 제목](image.png)](https://youtu.be/CUDP6FLetpE?si=Q2liz_PLPOYMHf9P)
+
+
 ## 목차
 
 - [프로젝트 구조](#프로젝트-구조)
