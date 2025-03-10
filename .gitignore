@@ -1,0 +1,12 @@
+### 참고문서 벡터스토어 파일
+mediba_vectorstore.pkl
+mediba_vectorstore.zip
+
+### 파일 해시
+file_hashes.pkl
+
+### 의존성 yaml 파일
+biomedical.yaml
+
+### 질문 리스트
+question.md
